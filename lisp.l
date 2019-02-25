@@ -1,8 +1,4 @@
-;; Justin Choi 40532889
-;; Klefstad
-;; CS 141 - Fall
-;; Homework 4
-;; 10/28/2018
+
 
 
 
